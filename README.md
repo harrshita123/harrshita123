@@ -40,11 +40,9 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=harrshita123&show_icons=true&include_all_commits=true&rank_icon=github&theme=default&bg_color=0d1117&text_color=f0f6fc&icon_color=58a6ff&border_color=30363d&hide=issues&cache_seconds=1800"
-    alt="Harshita's GitHub stats"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=harrshita123&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=00000000&text_color=f0f6fc&icon_color=58a6ff&hide=issues&cache_seconds=1800&v=2"
   />
 </p>
-
 
 ---
 
