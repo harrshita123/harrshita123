@@ -76,6 +76,6 @@
 
 ---
 
-<p align="center">
+
   — turning ideas into impact • contributing to something bigger than myself • growing without limits —
 </p>
