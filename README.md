@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshita Yadav</h1>
+<h1 align="center">Hi 👋,  Harshita Yadav</h1>
 <p align="center">
   Open Source Contributor • Aspiring Software Developer • AI & ML Enthusiast 
 </p>
