@@ -20,7 +20,7 @@
 
 ### 🌍 Open Source
 
-- Selected as a contributor/Mentee in **GirlScript Summer of Code (GSSoC)** 
+- Selected as a contributor/Mentee in **GirlScript Summer of Code (GSSoC) and NSOC** 
 - Engaged with programs like **GSoC, SoB, LFX, C4GT, Outreachy, and ESOC** 
 - Contributing across multiple repositories and collaborating with developers worldwide
 
