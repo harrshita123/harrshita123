@@ -9,7 +9,7 @@
 
 ---
 
-### 👩‍💻 About Me
+
 
 - **Full-Stack Developer focused on AI and Open Source, with an interest in Dart and Cryptography.**
 - Building **real-world, scalable applications**
